@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/visual-connect/static/css/main.063192bb.css",
+    "main.js": "/visual-connect/static/js/main.0ea4d306.js",
+    "static/js/453.46312202.chunk.js": "/visual-connect/static/js/453.46312202.chunk.js",
+    "static/media/Video.svg": "/visual-connect/static/media/Video.3f854a956aa45d2071db.svg",
+    "static/media/smartHome.svg": "/visual-connect/static/media/smartHome.e3ec8de24a496ef88048a140bd4c6866.svg",
+    "static/media/electricInstallation.svg": "/visual-connect/static/media/electricInstallation.406605229feb435223dc81d9fd8e6799.svg",
+    "static/media/camera.svg": "/visual-connect/static/media/camera.fb477e7f180aed23d4df535d3f0d46b4.svg",
+    "static/media/Photo.svg": "/visual-connect/static/media/Photo.b99e58ff5376582f7602797fb01be108.svg",
+    "static/media/domofone.svg": "/visual-connect/static/media/domofone.6f589293670a88091d0cabb7cf5a7d8a.svg",
+    "static/media/background.svg": "/visual-connect/static/media/background.7cbfdb0107823ed156ab.svg",
+    "static/media/logo.jpeg": "/visual-connect/static/media/logo.5c90eb0bf1ea1ca9f6f8.jpeg",
+    "static/media/logo.svg": "/visual-connect/static/media/logo.e78faed38faf7f87550e3d93400be6cb.svg",
+    "static/media/online-support.svg": "/visual-connect/static/media/online-support.208c062015d37d51be088e79a50e02ef.svg",
+    "static/media/paymentMethod.svg": "/visual-connect/static/media/paymentMethod.fbfd7c1513307e7672e4a38cf438d57d.svg",
+    "static/media/techSupport.svg": "/visual-connect/static/media/techSupport.d884401183ae0079a0a3e7c0cbffba64.svg",
+    "static/media/learning.svg": "/visual-connect/static/media/learning.9e123fd9e26b530d9f97a9b11fa7738e.svg",
+    "static/media/warranty.svg": "/visual-connect/static/media/warranty.965891c40f102b743b7edeabbba16e1b.svg",
+    "static/media/calendar.svg": "/visual-connect/static/media/calendar.b265369a11a883c2f7c2b697e4ec6706.svg",
+    "static/media/list.svg": "/visual-connect/static/media/list.a564aaace4b289557e7d129da716606f.svg",
+    "static/media/contact.svg": "/visual-connect/static/media/contact.5fcadf7524dd203a039297edc122565d.svg",
+    "static/media/measurement.svg": "/visual-connect/static/media/measurement.037ce556039439767cb86e71fcdb56c3.svg",
+    "static/media/montaj.svg": "/visual-connect/static/media/montaj.c8de1878621163e249de830d315fc103.svg",
+    "static/media/warehouse.svg": "/visual-connect/static/media/warehouse.51ba1ff3d60d5ebc547e004ca68594a0.svg",
+    "static/media/delivery-truck.svg": "/visual-connect/static/media/delivery-truck.fb0bf5cd931642023fc95db8a1d67016.svg",
+    "static/media/call.svg": "/visual-connect/static/media/call.bdf576a9feb2a86ce674daada6af2ef5.svg",
+    "static/media/mail.svg": "/visual-connect/static/media/mail.488b33e367ba11f8261fe305851f50bf.svg",
+    "index.html": "/visual-connect/index.html",
+    "static/media/mesto.svg": "/visual-connect/static/media/mesto.2740ae4d71d06482ef0ff7f2e105f46d.svg",
+    "main.063192bb.css.map": "/visual-connect/static/css/main.063192bb.css.map",
+    "main.0ea4d306.js.map": "/visual-connect/static/js/main.0ea4d306.js.map",
+    "453.46312202.chunk.js.map": "/visual-connect/static/js/453.46312202.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.063192bb.css",
+    "static/js/main.0ea4d306.js"
+  ]
+}
