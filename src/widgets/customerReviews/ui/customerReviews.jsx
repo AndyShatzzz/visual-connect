@@ -14,7 +14,7 @@ export const CustomerReviews = () => {
             alt="Фото пользователя"
           />
           <div className={styles.textContainer}>
-            <h3 className={styles.subtitle}>Вадими</h3>
+            <h3 className={styles.subtitle}>Вадим</h3>
             <p className={styles.text}>
               В частный дом необходимо было установить комплексное решение для слежением за домом по периметру, а также
               наладить удаленный доступ с телефона. Ребята все организовали в кратчайшие сроки. Теперь я спокоен за свой

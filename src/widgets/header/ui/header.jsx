@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from 'widgets/header/ui/header.module.scss';
-import logo from 'widgets/header/images/logo.svg';
+import logo from 'widgets/header/images/kandinskyConnect.png';
 
 export const Header = () => {
   return (

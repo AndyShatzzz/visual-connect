@@ -1,9 +1,10 @@
 .mainContainer {
   margin-top: 11px;
-  background-image: url(../images/Video.svg);
+  background-image: url(../images/kandinskyVall.png);
+  background-size: cover;
+  background-position: 90% 75%;
   width: 1170px;
   height: 428.19px;
-  background-size: contain;
   background-repeat: no-repeat;
   position: relative;
 }
@@ -91,6 +92,7 @@
     margin-top: 11px;
     width: 620px;
     height: 228px;
+    background-position: 85% 25%;
   }
 
   .wrapper {
